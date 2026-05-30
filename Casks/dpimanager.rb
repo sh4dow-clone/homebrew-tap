@@ -1,6 +1,6 @@
 cask "dpimanager" do
   version "1.1.0"
-  sha256 "eafd8f5178000595c96a52a938a08cf853022140f651820488cd422bdaa9482f"
+  sha256 "sha256:2c89cce7bd37b80469c6b0f511597e7e9135318eb6de54ae0495da6c31baa6bc"
 
   url "https://github.com/0xDranzer/MAC_DPIManager/releases/download/v#{version}/DPIManager.zip"
   name "DPIManager"
