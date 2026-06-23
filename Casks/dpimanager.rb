@@ -5,7 +5,7 @@ cask "dpimanager" do
   url "https://github.com/HasBrain/MacOS-DPIManager/releases/download/v#{version}/DPIManager.zip"
   name "DPIManager"
   desc "Enable HiDPI modes and adjust font smoothing for external displays"
-  homepage "https://github.com/shad0w-cl0nE/MAC_DPIManager"
+  homepage "https://github.com/sh4dow-clone/MAC_DPIManager"
 
   app "DPIManager.app"
 
