@@ -1,6 +1,6 @@
 cask "faceunlock" do
   version "1.0.0"
-  sha256 "cbb83a681b1151f6732fd59ffd1a668c23d0cf6c342d0324ad8302f07e235ee3"
+  sha256 "sha256:0b40d0db8f217313ecf75114d846ba6325f32584d2f2ee2dab95036000d71af6"
 
   url "https://github.com/HasBrain/FaceUnlock/releases/download/v#{version}/FaceUnlock.zip"
   name "FaceUnlock"
